@@ -1,4 +1,8 @@
-pre-requisites - download code and do setup from https://github.com/BestBuy/api-playground
+Api used: http://petclinicapi.e46708b92c054086909b.eastus.aksapp.io/petclinic/swagger-ui.html#/
+
+Sub Module:vet-rest-controller
+
+Methods Performed: GET,POST,DELETE.
 
 Project has 2 sub-modules 
 
